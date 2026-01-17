@@ -36,24 +36,24 @@ The AI automatically adjusts its *tone, depth, and complexity* so learning feels
 
  🛠️ Quick Start (Run it in 2 Minutes)
 
-1️⃣ Clone the Repository
-```bash
+1️⃣ Clone the Repository:
+
 git clone https://github.com/your-username/AI-Learning-Buddy.git
 
 cd AI-Learning-Buddy
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies:
 This project uses the Google GenAI SDK (2026). Make sure everything is up to date:
 
 python -m pip install -U google-genai streamlit python-dotenv
 
-3️⃣ Add Your API Key (The Secret Sauce 🔑)
+3️⃣ Add Your API Key (The Secret Sauce 🔑):
 Create a .env file in the root directory and add 
 your Gemini API key:
 
 GEMINI_API_KEY=your_actual_key_here
 
-4️⃣ Launch the App 🚀
+4️⃣ Launch the App 🚀:
 python -m streamlit run studybuddy.py
 
 Your AI Learning Buddy will open in your browser 🎉
@@ -86,5 +86,6 @@ Learning is better when we build together 🚀
 ⭐ Show Some Love-:)
 
 If you find this project helpful, consider giving it a ⭐ on GitHub — it really helps!
+
 
 
