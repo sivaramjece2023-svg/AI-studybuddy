@@ -59,6 +59,7 @@ python -m streamlit run studybuddy.py
 Your AI Learning Buddy will open in your browser 🎉
 
 📂 Project Structure:
+```bash
 AI-Learning-Buddy/
 │
 ├── studybuddy.py        # Main Streamlit app + Gemini logic
@@ -86,6 +87,7 @@ Learning is better when we build together 🚀
 ⭐ Show Some Love-:)
 
 If you find this project helpful, consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
