@@ -66,7 +66,7 @@ AI-Learning-Buddy/
 ├── .env                 # API keys (hidden, not committed)
 ├── requirements.txt     # Project dependencies
 └── README.md            # Project documentation
-
+```
 🧠 Roadmap / Future Ideas:
  >>📄 PDF Support:
 Upload textbook chapters and ask questions directly.
@@ -87,6 +87,7 @@ Learning is better when we build together 🚀
 ⭐ Show Some Love-:)
 
 If you find this project helpful, consider giving it a ⭐ on GitHub — it really helps!
+
 
 
 
